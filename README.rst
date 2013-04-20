@@ -31,6 +31,8 @@ To install this package, from your CKAN virtualenv, run the following from your 
 
 Then activate it by setting ``ckan.plugins = example`` in your main ``ini``-file.
 
+(For other extensions, the value to enter in ckan.plugins is the name of the folder in the /ckanext/ directory.)
+
 Orientation
 ===========
 
